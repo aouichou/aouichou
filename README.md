@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amine</h1>
 <h3 align="center">A bakend developer and student at 42Paris</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=agrippa2023&label=Profile%20views&color=0e75b6&style=flat" alt="agrippa2023" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aouichou&label=Profile%20views&color=0e75b6&style=flat" alt="aouichou" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agrippa2023" alt="agrippa2023" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agrippa2023" alt="aouichou" /></a> </p>
 
 - ⚡ Fun fact **I have approximate knowledge of many things**
 
@@ -17,18 +17,18 @@
 
 ## Notable 42Paris Projects
 
-### [miniRT](https://github.com/Agrippa2023/miniRT)
+### [miniRT](https://github.com/aouichou/miniRT)
 - Generate images using Raytracing with the **MiniLibX**.  
 - Scene specification uses the “.rt” format.  
 - Fully supported plane, sphere, and cylinder, plus bonus features like reflections and color patterns.  
 - Achieved a final mark of **125%**.
 
-### [minishell](https://github.com/Agrippa2023/minishell)
+### [minishell](https://github.com/aouichou/minishell)
 - Custom shell in C supporting redirections, pipes, and custom signals.  
 - Used `readline`, `fork`, and many other Linux system calls.  
 - Achieved a final mark of **101%**.
 
-### [ft_transcendence](https://github.com/Agrippa2023/ft_transcendence)
+### [ft_transcendence](https://github.com/aouichou/ft_transcendence)
 - Real-time Pong-like web app, with user tournaments, AI opponents, and advanced security.  
 - Achieved a final mark of **125%**.  
 - **Modules I developed independently**:  

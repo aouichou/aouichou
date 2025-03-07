@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aouichou&label=Profile%20views&color=0e75b6&style=flat" alt="aouichou" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agrippa2023" alt="aouichou" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aouichou" alt="aouichou" /></a> </p>
 
 - ⚡ Fun fact **I have approximate knowledge of many things**
 
@@ -102,9 +102,9 @@ graph TD
    - ### low-latency programming
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=agrippa2023&show_icons=true&locale=en&layout=compact" alt="agrippa2023" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aouichou&show_icons=true&locale=en&layout=compact" alt="aouichou" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agrippa2023&show_icons=true&locale=en" alt="agrippa2023" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aouichou&show_icons=true&locale=en" alt="aouichou" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agrippa2023&" alt="agrippa2023" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aouichou&" alt="aouichou" /></p>
 

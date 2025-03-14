@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amine</h1>
 <h3 align="center">A bakend and DevOps developer and student at 42Paris</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aouichou&label=Profile%20views&color=0e75b6&style=flat" alt="aouichou" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Agrippa2023&label=Profile%20views&color=0e75b6&style=flat" alt="Agrippa2023" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aouichou" alt="aouichou" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Agrippa2023" alt="Agrippa2023" /></a> </p>
 
 - ⚡ Fun fact **I have approximate knowledge of many things**
 

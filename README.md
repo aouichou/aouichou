@@ -34,8 +34,9 @@
   - Resource-limited containers (512MB RAM/1vCPU)
   
 - **DevOps Architecture**
+
   ```mermaid
-graph TD
+  graph TD
     User[User Browser] -->|HTTPS| CF[Cloudflare]
     CF -->|HTTP/2| Next[Next.js Frontend]
     CF -->|WebSocket| Django[Django Backend]

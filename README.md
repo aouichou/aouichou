@@ -35,21 +35,22 @@
   
 - **DevOps Architecture**
   ```mermaid
-   graph TD
-    User("User Browser") -->|HTTPS| CF("Cloudflare")
-    CF -->|HTTP/2| Next("Next.js Frontend")
-    CF -->|WebSocket| Django("Django Backend")
-    Django -->|Internal WebSocket| WS("Terminal Service")
-    Django -->|JSON| DB[("PostgreSQL")]
-    Django -->|Async Tasks| Redis[("Redis Cache")]
-    Django -->|Files| S3[("S3 Storage")]
-    Next -->|API Calls| Django
-    WS -->|PTY| Terminal("PTY Process")
-    Terminal -->|Files| Project("Project Files")
-    Github("GitHub") -->|CI/CD| Actions("GitHub Actions")
-    Actions -->|Deploy| Next
-    Actions -->|Deploy| Django
-    Actions -->|Deploy| WS
+  graph TD
+      User("User Browser") -->|HTTPS| CF("Cloudflare")
+      CF -->|HTTP/2| Heroku("Heroku: Next.js")
+      CF -->|HTTPS| Render("Render: Django")
+      Render -->|Internal Network| Terminal("Terminal Service")
+      Render -->|SQL| DB[("PostgreSQL")]
+      Render -->|Cache| Redis[("Redis")]
+      Render -->|Files| S3[("S3 Storage")]
+      Heroku -->|API Calls| Render
+      Heroku -.->|No Direct Access| Terminal
+      Terminal -->|PTY| Process("PTY Process")
+      Process -->|Files| Projects("Project Files")
+      Github("GitHub") -->|CI/CD| Actions("GitHub Actions")
+      Actions -->|Deploy| Heroku
+      Actions -->|Deploy| Render
+      Actions -->|Deploy| Terminal
   ```
   
 - **Security Measures**
